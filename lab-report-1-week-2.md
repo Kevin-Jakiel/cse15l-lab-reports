@@ -1,6 +1,6 @@
 # Lab Report 1
 ## April 1st 2022 & April 8th 2022
-### **Lab 1** *April 1st 2022*
+### ****Lab 1** *April 1st 2022***
 
 Here is the [link](https://docs.google.com/document/d/17jT1E99qHO9q5prd-BPDhzNqIDCAVYAtavVzt3bCg10/edit#heading=h.4o1hnbkz6val) to week 1 lab report write up.
 
@@ -16,9 +16,9 @@ Copying files and logging into the ssh account with the password takes a lot of 
 
 In Lab 1 we learned how to access and control the remote servers using ssh, how to copy files with scp, and creating ssh keygens so we dont have to use a password everytime we want to log into the remote account.
 
-# **Lab 2** *April 8th 2022*
+# ****Lab 2** *April 8th 2022***
 
-In the second lab for CSE 15L we learned about Git, GitHub, and GitHub Pages *(what your looking at right now)*.
+In the [second lab](https://docs.google.com/document/d/1Nw6gdehL-BzqjeVV1jzi_Ni4cdpx2uquLztLGTdzUdU/edit#heading=h.49e6dmnl0l3f) for CSE 15L we learned about Git, GitHub, and GitHub Pages *(what your looking at right now)*.
 
 At the start of Lab 2, we created a a GitHub account and created our first [repository](https://github.com/Kevin-Jakiel/cse15l-lab-reports/tree/main).
 
@@ -32,3 +32,5 @@ After cloning the repository to the Desktop App we can open the files in VS Code
 ![Image](lab2VsCode.PNG)
 
 In Lab 2, we learned about Git, GitHub, GitHub pages, how to add files to your repository, how to edit them, how to edit files offline and upload them to the remote repository on the GitHub Website
+
+[Return to Main Page](index.html)
