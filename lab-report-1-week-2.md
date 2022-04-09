@@ -1,6 +1,6 @@
 # Lab Report 1
 ## April 1st 2022 & April 8th 2022
-**Lab 1** *April 1st 2022*
+### **Lab 1** *April 1st 2022*
 
 Here is the [link](https://docs.google.com/document/d/17jT1E99qHO9q5prd-BPDhzNqIDCAVYAtavVzt3bCg10/edit#heading=h.4o1hnbkz6val) to week 1 lab report write up.
 
@@ -16,8 +16,7 @@ Copying files and logging into the ssh account with the password takes a lot of 
 
 In Lab 1 we learned how to access and control the remote servers using ssh, how to copy files with scp, and creating ssh keygens so we dont have to use a password everytime we want to log into the remote account.
 
-**Lab 2**
-*April 8th 2022*
+# **Lab 2** *April 8th 2022*
 
 In the second lab for CSE 15L we learned about Git, GitHub, and GitHub Pages *(what your looking at right now)*.
 

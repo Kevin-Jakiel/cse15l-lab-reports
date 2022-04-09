@@ -1,8 +1,4 @@
 CSE15L Lab Reports Below:
 =========================
-## Lab 1 on April 1st 2022:
+[Lab Report 1](lab-report-1-week-2.html)
 
-**SSH Keygens and remote server**
-
-*Test on VS Code.*
->First thing First rest in peace Uncle Phil
