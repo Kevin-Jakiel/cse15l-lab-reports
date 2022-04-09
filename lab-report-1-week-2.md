@@ -33,4 +33,4 @@ After cloning the repository to the Desktop App we can open the files in VS Code
 
 In Lab 2, we learned about Git, GitHub, GitHub pages, how to add files to your repository, how to edit them, how to edit files offline and upload them to the remote repository on the GitHub Website
 
-[Return to Main Page](index.html)
+[Return to Home Page](index.html)
