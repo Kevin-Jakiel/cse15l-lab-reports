@@ -26,6 +26,13 @@ Step one, for the first part of this activity we had to copy our ssh public key 
 
 Step two, running git commands Does not work for me yet, going to the next available tutor hour to resolve issues
 
+Issues I have, ive recreated my ssh-keygen and added it to my Github account. After those steps I launched VS Code to create and edit a basic file using VIM. After creating the file, I used the git commands
+
+    git add labTest.java
+    git commit -m "Adding Lab Report Test"
+    git push origin main
+and then i end up with this error
+![Image](gitpush.PNG)
 ------------------
 
 **Part Three**
